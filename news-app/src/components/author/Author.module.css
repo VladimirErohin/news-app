@@ -1,0 +1,15 @@
+
+.author__item{
+    margin-bottom: 10px;
+}
+
+.author__url{
+    color: white;
+}
+.author__url a:hover{
+    color:blue;
+}
+
+.author__name:hover{
+    color:blue;
+}
